@@ -1,3 +1,2 @@
 # carthage
-
-Seance 1 : introduction a flutter et langage DART
+Le rendu de TP1 ( application gestion de media mobile ) est dans la Dir tp1, bonne lecture monsieur 
