@@ -6,6 +6,9 @@
 
 # instalation
 git clone http://www.github.com/xxxx/amse.git
+
 cd amse/tp1
+
 flutter create .
+
 flutter run
