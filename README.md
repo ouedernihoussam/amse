@@ -1,4 +1,3 @@
-![alt text] (https://www.google.com/search?q=mobile+web+development&sxsrf=APq-WBt4GOsMFO0jGp5Oc0faLiTvzTX5RQ:1644184633829&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiPiq2Iiez1AhWqyYUKHarqBmAQ_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=TIe3y0K1MnOKiM)
 
 
 # carthage
